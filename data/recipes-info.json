@@ -7,6 +7,7 @@
                 {
                     "id": 1,
                     "name": "Keema Matar",
+                    "photo": "https://spicecravings.com/wp-content/uploads/2017/10/Keema-Matar-Featured-2.jpg",
                     "ingredients": [
                         "minced lamb",
                         "green peas",
@@ -28,6 +29,7 @@
                 {
                     "id": 2,
                     "name": "Chicken Tikka Masala",
+                    "photo": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/chicken-tikka-masala.jpg",
                     "ingredients": [
                         "boneless chicken",
                         "yogurt",
@@ -45,36 +47,11 @@
                     ],
                     "method": "1. Marinate chicken in yogurt, ginger paste, garlic paste, garam masala, cumin powder, coriander powder, turmeric powder, and salt. 2. Grill chicken until cooked. 3. In a separate pan, heat butter and sauté onion until golden brown. 4. Add tomato puree, cream, salt, and sugar. 5. Add grilled chicken and let simmer for 10-15 minutes. 6. Serve hot.",
                     "rating": 4.7
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "name": "Sanjeev Kapoor",
-            "recipes": [
-                {
-                    "id": 1,
-                    "name": "Paneer Butter Masala",
-                    "ingredients": [
-                        "paneer",
-                        "onion",
-                        "tomato",
-                        "ginger",
-                        "garlic",
-                        "green chili",
-                        "coriander powder",
-                        "cumin powder",
-                        "garam masala",
-                        "salt",
-                        "butter",
-                        "cream"
-                    ],
-                    "method": "1. In a pan, heat butter and sauté onion until golden brown. 2. Add ginger, garlic, and green chili. 3. Add chopped tomato and cook until soft. 4. Add coriander powder, cumin powder, garam masala, and salt. 5. Add paneer and let simmer for 5-10 minutes. 6. Add cream and let simmer for another 2-3 minutes. 7. Serve hot with naan or rice.",
-                    "rating": 4.6
                 },
                 {
-                    "id": 2,
+                    "id": 3,
                     "name": "Aloo Gobi",
+                    "photo": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/aloo-gobi-recipe-500x375.jpg",
                     "ingredients": [
                         "potato",
                         "cauliflower",
@@ -96,12 +73,83 @@
             ]
         },
         {
+            "id": 2,
+            "name": "Sanjeev Kapoor",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Paneer Butter Masala",
+                    "photo": "https://myfoodstory.com/wp-content/uploads/2021/07/restaurant-style-paneer-butter-masala-2-480x270.jpg",
+                    "ingredients": [
+                        "paneer",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "green chili",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "salt",
+                        "butter",
+                        "cream"
+                    ],
+                    "method": "1. In a pan, heat butter and sauté onion until golden brown. 2. Add ginger, garlic, and green chili. 3. Add chopped tomato and cook until soft. 4. Add coriander powder, cumin powder, garam masala, and salt. 5. Add paneer and let simmer for 5-10 minutes. 6. Add cream and let simmer for another 2-3 minutes. 7. Serve hot with naan or rice.",
+                    "rating": 4.6
+                },
+                {
+                    "id": 2,
+                    "name": "Aloo Gobi",
+                    "photo": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/aloo-gobi-recipe-500x375.jpg",
+                    "ingredients": [
+                        "potato",
+                        "cauliflower",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "turmeric powder",
+                        "red chili powder",
+                        "garam masala",
+                        "salt",
+                        "oil"
+                    ],
+                    "method": "1. Heat oil in a pan and sauté onion until golden brown. 2. Add ginger and garlic and cook until fragrant. 3. Add chopped potato and cauliflower and cook until browned. 4. Add chopped tomato and cook until soft. 5. Add coriander powder, cumin powder, turmeric powder, red chili powder, garam masala, and salt. 6. Add a little water and cover the pan. Let simmer until the vegetables are cooked. 7. Serve hot with naan or rice.",
+                    "rating": 4.5
+                },
+                {
+                    "id": 3,
+                    "name": "Biryani",
+                    "photo": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg",
+                    "ingredients": [
+                        "rice",
+                        "chicken",
+                        "onion",
+                        "yogurt",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "saffron",
+                        "oil",
+                        "salt"
+                    ],
+                    "method": "1. Soak rice in water for 30 minutes. 2. In a separate pan, heat oil and sauté onion until golden brown. 3. Add ginger, garlic, and chopped chicken. 4. Add coriander powder, cumin powder, garam masala, and salt. 5. Add yogurt and let cook until the chicken is browned. 6. In a pot, boil water and add the soaked rice. Cook until the rice is almost done. 7. In a separate pan, mix saffron with a little warm milk. 8. In a large pot, layer the cooked chicken and rice, alternating between the two. 9. Pour the saffron milk on top of the rice. 10. Cover the pot and let cook on low heat for 15-20 minutes. 11. Serve hot.",
+                    "rating": 4
+                }
+            ]
+        },
+        {
             "id": 3,
             "name": "Vikas Khanna",
             "recipes": [
                 {
                     "id": 1,
                     "name": "Dal Makhani",
+                    "photo": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/dal-makhani-recipe.jpg",
                     "ingredients": [
                         "black lentils",
                         "kidney beans",
@@ -122,6 +170,7 @@
                 {
                     "id": 2,
                     "name": "Biryani",
+                    "photo": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg",
                     "ingredients": [
                         "rice",
                         "chicken",
@@ -142,6 +191,7 @@
                 {
                     "id": 3,
                     "name": "Chole Bhature",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Chole_Bhature_from_Nagpur.JPG",
                     "ingredients": [
                         "chickpeas",
                         "onion",
@@ -170,6 +220,7 @@
                 {
                     "id": 1,
                     "name": "Paneer Tikka",
+                    "photo": "https://www.indianveggiedelight.com/wp-content/uploads/2021/08/air-fryer-paneer-tikka-featured.jpg",
                     "ingredients": [
                         "paneer",
                         "capsicum",
@@ -191,6 +242,7 @@
                 {
                     "id": 2,
                     "name": "Butter Chicken",
+                    "photo": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
                     "ingredients": [
                         "chicken",
                         "tomato puree",
@@ -212,6 +264,7 @@
                 {
                     "id": 3,
                     "name": "Matar Paneer",
+                    "photo": "https://static.toiimg.com/photo/53251884.cms",
                     "ingredients": [
                         "paneer",
                         "peas",
@@ -239,6 +292,7 @@
                 {
                     "id": 1,
                     "name": "Palak Paneer",
+                    "photo": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/palak-paneer-recipe.jpg",
                     "ingredients": [
                         "spinach",
                         "paneer",
@@ -260,6 +314,7 @@
                 {
                     "id": 2,
                     "name": "Chole Bhature",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Chole_Bhature_from_Nagpur.JPG",
                     "ingredients": [
                         "chickpeas",
                         "onion",
@@ -285,6 +340,7 @@
                 {
                     "id": 3,
                     "name": "Aloo Gobi",
+                    "photo": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/aloo-gobi-recipe-500x375.jpg",
                     "ingredients": [
                         "potato",
                         "cauliflower",
@@ -312,6 +368,7 @@
                 {
                     "id": 1,
                     "name": "Dal Makhani",
+                    "photo": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/dal-makhani-recipe.jpg",
                     "ingredients": [
                         "whole urad dal",
                         "rajma",
@@ -334,6 +391,7 @@
                 {
                     "id": 2,
                     "name": "Palak Paneer",
+                    "photo": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/palak-paneer-recipe.jpg",
                     "ingredients": [
                         "spinach",
                         "paneer",
@@ -356,6 +414,7 @@
                 {
                     "id": 3,
                     "name": "Butter Chicken",
+                    "photo": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
                     "ingredients": [
                         "chicken",
                         "butter",
