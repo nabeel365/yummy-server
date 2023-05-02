@@ -1,0 +1,382 @@
+{
+    "chefs": [
+        {
+            "id": 1,
+            "name": "Ranveer Brar",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Keema Matar",
+                    "ingredients": [
+                        "minced lamb",
+                        "green peas",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "turmeric powder",
+                        "red chili powder",
+                        "garam masala",
+                        "salt",
+                        "oil"
+                    ],
+                    "method": "1. In a pan, heat oil and sauté onion until golden brown. 2. Add ginger and garlic and cook until fragrant. 3. Add minced lamb and cook until brown. 4. Add chopped tomato and cook until soft. 5. Add coriander powder, cumin powder, turmeric powder, red chili powder, garam masala, and salt. 6. Add green peas and let simmer for 10-15 minutes. 7. Serve hot with naan or rice.",
+                    "rating": 4.8
+                },
+                {
+                    "id": 2,
+                    "name": "Chicken Tikka Masala",
+                    "ingredients": [
+                        "boneless chicken",
+                        "yogurt",
+                        "ginger paste",
+                        "garlic paste",
+                        "garam masala",
+                        "cumin powder",
+                        "coriander powder",
+                        "turmeric powder",
+                        "tomato puree",
+                        "cream",
+                        "butter",
+                        "salt",
+                        "sugar"
+                    ],
+                    "method": "1. Marinate chicken in yogurt, ginger paste, garlic paste, garam masala, cumin powder, coriander powder, turmeric powder, and salt. 2. Grill chicken until cooked. 3. In a separate pan, heat butter and sauté onion until golden brown. 4. Add tomato puree, cream, salt, and sugar. 5. Add grilled chicken and let simmer for 10-15 minutes. 6. Serve hot.",
+                    "rating": 4.7
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Sanjeev Kapoor",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Paneer Butter Masala",
+                    "ingredients": [
+                        "paneer",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "green chili",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "salt",
+                        "butter",
+                        "cream"
+                    ],
+                    "method": "1. In a pan, heat butter and sauté onion until golden brown. 2. Add ginger, garlic, and green chili. 3. Add chopped tomato and cook until soft. 4. Add coriander powder, cumin powder, garam masala, and salt. 5. Add paneer and let simmer for 5-10 minutes. 6. Add cream and let simmer for another 2-3 minutes. 7. Serve hot with naan or rice.",
+                    "rating": 4.6
+                },
+                {
+                    "id": 2,
+                    "name": "Aloo Gobi",
+                    "ingredients": [
+                        "potato",
+                        "cauliflower",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "turmeric powder",
+                        "red chili powder",
+                        "garam masala",
+                        "salt",
+                        "oil"
+                    ],
+                    "method": "1. Heat oil in a pan and sauté onion until golden brown. 2. Add ginger and garlic and cook until fragrant. 3. Add chopped potato and cauliflower and cook until browned. 4. Add chopped tomato and cook until soft. 5. Add coriander powder, cumin powder, turmeric powder, red chili powder, garam masala, and salt. 6. Add a little water and cover the pan. Let simmer until the vegetables are cooked. 7. Serve hot with naan or rice.",
+                    "rating": 4.5
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Vikas Khanna",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Dal Makhani",
+                    "ingredients": [
+                        "black lentils",
+                        "kidney beans",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "butter",
+                        "cream",
+                        "salt"
+                    ],
+                    "method": "1. Soak black lentils and kidney beans overnight. 2. In a pressure cooker, cook the lentils and beans until soft. 3. In a separate pan, heat butter and sauté onion until golden brown. 4. Add ginger, garlic, and chopped tomato. 5. Add coriander powder, cumin powder, garam masala, and salt. 6. Add the cooked lentils and beans and let simmer for 10-15 minutes. 7. Add cream and let simmer for another 2-3 minutes. 8. Serve hot with naan or rice.",
+                    "rating": 4.9
+                },
+                {
+                    "id": 2,
+                    "name": "Biryani",
+                    "ingredients": [
+                        "rice",
+                        "chicken",
+                        "onion",
+                        "yogurt",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "saffron",
+                        "oil",
+                        "salt"
+                    ],
+                    "method": "1. Soak rice in water for 30 minutes. 2. In a separate pan, heat oil and sauté onion until golden brown. 3. Add ginger, garlic, and chopped chicken. 4. Add coriander powder, cumin powder, garam masala, and salt. 5. Add yogurt and let cook until the chicken is browned. 6. In a pot, boil water and add the soaked rice. Cook until the rice is almost done. 7. In a separate pan, mix saffron with a little warm milk. 8. In a large pot, layer the cooked chicken and rice, alternating between the two. 9. Pour the saffron milk on top of the rice. 10. Cover the pot and let cook on low heat for 15-20 minutes. 11. Serve hot.",
+                    "rating": 4
+                },
+                {
+                    "id": 3,
+                    "name": "Chole Bhature",
+                    "ingredients": [
+                        "chickpeas",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "amchur powder",
+                        "oil",
+                        "salt",
+                        "flour",
+                        "baking powder",
+                        "yogurt"
+                    ],
+                    "method": "For Chole: 1. Soak chickpeas overnight. 2. In a pressure cooker, cook the chickpeas until soft. 3. In a separate pan, heat oil and sauté onion until golden brown. 4. Add ginger, garlic, and chopped tomato. 5. Add coriander powder, cumin powder, garam masala, amchur powder, and salt. 6. Add the cooked chickpeas and let simmer for 10-15 minutes. 7. Serve hot with bhature. For Bhature: 1. Mix flour, baking powder, and salt in a bowl. 2. Add yogurt and knead the dough. 3. Cover the dough and let it rest for 30 minutes. 4. Roll out the dough into small circles. 5. Deep fry the bhature in hot oil until golden brown. 6. Serve hot with chole.",
+                    "rating": 4.7
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sanjeev Kapoor",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Paneer Tikka",
+                    "ingredients": [
+                        "paneer",
+                        "capsicum",
+                        "onion",
+                        "ginger-garlic paste",
+                        "yogurt",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "turmeric powder",
+                        "red chili powder",
+                        "lemon juice",
+                        "oil",
+                        "salt"
+                    ],
+                    "method": "1. Cut paneer, capsicum, and onion into small cubes. 2. In a bowl, mix yogurt, ginger-garlic paste, coriander powder, cumin powder, garam masala, turmeric powder, red chili powder, lemon juice, and salt. 3. Add the paneer, capsicum, and onion to the bowl and mix well. 4. Cover the bowl and let it marinate for 30 minutes. 5. Preheat the oven to 200°C. 6. Thread the paneer, capsicum, and onion onto skewers. 7. Brush the skewers with oil. Place the skewers on a baking tray and bake for 15-20 minutes, turning the skewers once halfway through. 9. Serve hot with mint chutney.",
+                    "rating": 4.5
+                },
+                {
+                    "id": 2,
+                    "name": "Butter Chicken",
+                    "ingredients": [
+                        "chicken",
+                        "tomato puree",
+                        "cream",
+                        "butter",
+                        "ginger",
+                        "garlic",
+                        "kasuri methi",
+                        "garam masala",
+                        "red chili powder",
+                        "coriander powder",
+                        "cumin powder",
+                        "sugar",
+                        "salt"
+                    ],
+                    "method": "1. Marinate chicken with ginger-garlic paste, red chili powder, coriander powder, cumin powder, and salt for 30 minutes. 2. Heat butter in a pan and sauté the marinated chicken until cooked. 3. In another pan, heat butter and add ginger, garlic, and kasuri methi. 4. Add tomato puree, garam masala, and salt. 5. Cook the tomato gravy for 10-15 minutes. 6. Add the cooked chicken to the gravy and mix well. 7. Add cream and sugar and let it simmer for 5 minutes. 8. Serve hot with naan or rice.",
+                    "rating": 4.8
+                },
+                {
+                    "id": 3,
+                    "name": "Matar Paneer",
+                    "ingredients": [
+                        "paneer",
+                        "peas",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "turmeric powder",
+                        "red chili powder",
+                        "oil",
+                        "salt"
+                    ],
+                    "method": "1. Heat oil in a pan and sauté onion until golden brown. 2. Add ginger, garlic, and chopped tomato. 3. Add coriander powder, cumin powder, garam masala, turmeric powder, red chili powder, and salt. 4. Cook the tomato gravy for 10-15 minutes. 5. Add peas and let it cook for 5 minutes. 6. Add paneer and cook for another 5 minutes. 7. Serve hot with roti or rice.",
+                    "rating": 4.6
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Tarla Dalal",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Palak Paneer",
+                    "ingredients": [
+                        "spinach",
+                        "paneer",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "turmeric powder",
+                        "red chili powder",
+                        "oil",
+                        "salt"
+                    ],
+                    "method": "1. Blanch spinach in boiling water for 2-3 minutes. 2. Drain the water and blend the spinach to make a puree. 3. Heat oil in a pan and sauté onion until golden brown. 4. Add ginger, garlic, and chopped tomato. 5. Add coriander powder, cumin powder, garam masala, turmeric powder, red chili powder, and salt. 6. Cook the tomato gravy for 10-15 minutes. 7. Add spinach puree and paneer. 8. Cook for 5 minutes. 9. Serve hot with naan or rice.",
+                    "rating": 4.7
+                },
+                {
+                    "id": 2,
+                    "name": "Chole Bhature",
+                    "ingredients": [
+                        "chickpeas",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "turmeric powder",
+                        "red chili powder",
+                        "oil",
+                        "salt",
+                        "baking powder",
+                        "maida",
+                        "curd",
+                        "sugar",
+                        "oil for frying"
+                    ],
+                    "method": "For Chole:\n1. Soak chickpeas in water overnight.\n2. Pressure cook the chickpeas until they are soft.\n3. Heat oil in a pan and sauté onion until golden brown.\n4. Add ginger, garlic, and chopped tomato.\n5. Add coriander powder, cumin powder, garam masala, turmeric powder, red chili powder, and salt.\n6. Cook the tomato gravy for 10-15 minutes.\n7. Add the cooked chickpeas to the gravy and mix well.\n8. Serve hot with bhature.\n\nFor Bhature:\n1. Mix maida, curd, baking powder, sugar, and salt in a bowl.\n2. Knead the dough and keep it aside for 2 hours.\n3. Make small balls of the dough and roll them into circular shapes.\n4. Heat oil in a frying pan and deep fry the bhaturas until they are golden brown.\n5. Serve hot with chole.",
+                    "rating": 4.9
+                },
+                {
+                    "id": 3,
+                    "name": "Aloo Gobi",
+                    "ingredients": [
+                        "potato",
+                        "cauliflower",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "turmeric powder",
+                        "red chili powder",
+                        "oil",
+                        "salt"
+                    ],
+                    "method": "1. Heat oil in a pan and sauté onion until golden brown.\n2. Add ginger, garlic, and chopped tomato.\n3. Add coriander powder, cumin powder, garam masala, turmeric powder, red chili powder, and salt.\n4. Cook the tomato gravy for 10-15 minutes.\n5. Add chopped potatoes and cauliflower to the gravy.\n6. Cover and cook until the vegetables are soft.\n7. Serve hot with roti or rice.",
+                    "rating": 4.4
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Vikas Khanna",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Dal Makhani",
+                    "ingredients": [
+                        "whole urad dal",
+                        "rajma",
+                        "butter",
+                        "cream",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "cumin powder",
+                        "coriander powder",
+                        "garam masala",
+                        "red chili powder",
+                        "kasuri methi",
+                        "salt"
+                    ],
+                    "method": "1. Soak whole urad dal and rajma overnight in water.\n2. Pressure cook the dal and rajma until they are soft.\n3. Heat butter in a pan and sauté onion until golden brown.\n4. Add ginger, garlic, and chopped tomato.\n5. Add cumin powder, coriander powder, garam masala, red chili powder, and salt.\n6. Cook the tomato gravy for 10-15 minutes.\n7. Add the cooked dal and rajma to the gravy and mix well.\n8. Cook for 10-15 minutes on low heat.\n9. Add kasuri methi and cream.\n10. Serve hot with rice or naan.",
+                    "rating": 4.8
+                },
+                {
+                    "id": 2,
+                    "name": "Palak Paneer",
+                    "ingredients": [
+                        "spinach",
+                        "paneer",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "turmeric powder",
+                        "red chili powder",
+                        "oil",
+                        "salt",
+                        "cream"
+                    ],
+                    "method": "1. Blanch spinach in hot water and grind it into a fine paste.\n2. Heat oil in a pan and sauté onion until golden brown.\n3. Add ginger, garlic, and chopped tomato.\n4. Add coriander powder, cumin powder, garam masala, turmeric powder, red chili powder, and salt.\n5. Cook the tomato gravy for 10-15 minutes.\n6. Add the spinach paste to the gravy and mix well.\n7. Add paneer and cook for 5 minutes.\n8. Add cream and mix well.\n9. Serve hot with naan or rice.",
+                    "rating": 4.9
+                },
+                {
+                    "id": 3,
+                    "name": "Butter Chicken",
+                    "ingredients": [
+                        "chicken",
+                        "butter",
+                        "cream",
+                        "onion",
+                        "tomato",
+                        "ginger",
+                        "garlic",
+                        "coriander powder",
+                        "cumin powder",
+                        "garam masala",
+                        "turmeric powder",
+                        "red chili powder",
+                        "kasuri methi",
+                        "oil",
+                        "salt"
+                    ],
+                    "method": "1. Marinate chicken with curd, red chili powder, turmeric powder, and salt for 1 hour.\n2. Heat oil in a pan and fry the marinated chicken until golden brown.\n3. Heat butter in another pan and sauté onion until golden brown.\n4. Add ginger, garlic, and chopped tomato.\n5. Add coriander powder, cumin powder, garam masala, turmeric powder, red chili powder, and salt.\n6. Cook the tomato gravy for 10-15 minutes.\n7. Add the fried chicken to the gravy and mix well.\n8. Add kasuri methi and cream.\n9. Serve hot with naan or rice.",
+                    "rating": 4.7
+                }
+            ]
+        }
+    ]
+}
