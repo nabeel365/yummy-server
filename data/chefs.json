@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "picture": "https://st.depositphotos.com/1518767/4293/i/950/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
+    "name": "Ranveer Brar",
+    "experience": 10,
+    "recipes": 75,
+    "likes": 15000
+  },
+  {
+    "id": 2,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPrkvQfBHxQWx64m7jwRJ_-5B1Nh8nqTAAA&usqp=CAU",
+    "name": "Sanjeev Kapoor",
+    "experience": 5,
+    "recipes": 50,
+    "likes": 10000
+  },
+  {
+    "id": 3,
+    "picture": "https://c.ndtvimg.com/2022-05/uhjvddb_chef-generic_625x300_10_May_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+    "name": "Vikas Khanna",
+    "experience": 8,
+    "recipes": 60,
+    "likes": 12000
+  },
+  {
+    "id": 4,
+    "picture": "https://tajdining.com/uploads/chefs/small/53_small_2022_07_26_03_37_47.jpg",
+    "name": "Sanjeev Kapoor",
+    "experience": 15,
+    "recipes": 100,
+    "likes": 25000
+  },
+  {
+    "id": 5,
+    "picture": "https://news.harvard.edu/wp-content/uploads/2022/12/Chef-Ben-Howe-and-DELISH-Dishes-2-1200x800.jpg",
+    "name": "Tarla Dalal",
+    "experience": 3,
+    "recipes": 30,
+    "likes": 5000
+  },
+  {
+    "id": 6,
+    "picture": "https://images.delightedcooking.com/slideshow-mobile-small/linecook.jpg",
+    "name": "Abdul Hamid",
+    "experience": 12,
+    "recipes": 80,
+    "likes": 20000
+  }
+]
