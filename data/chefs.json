@@ -3,6 +3,7 @@
     "id": 1,
     "picture": "https://st.depositphotos.com/1518767/4293/i/950/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
     "name": "Ranveer Brar",
+    "bio": "Ranveer Brar is an Indian chef, restaurateur, and television personality. He is known for his expertise in Indian cuisine and has hosted several cooking shows like 'The Great Indian Rasoi' and 'MasterChef India'. He has also authored several cookbooks and has received several awards for his culinary skills.",
     "experience": 10,
     "recipes": 75,
     "likes": 15000
@@ -11,6 +12,7 @@
     "id": 2,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPrkvQfBHxQWx64m7jwRJ_-5B1Nh8nqTAAA&usqp=CAU",
     "name": "Sanjeev Kapoor",
+    "bio": "Sanjeev Kapoor is an Indian chef, author, and television personality. He is known for his popular cooking show 'Khana Khazana' and has authored over 150 cookbooks. He is also the recipient of the Padma Shri award for his contribution to Indian cuisine.",
     "experience": 5,
     "recipes": 50,
     "likes": 10000
@@ -19,6 +21,7 @@
     "id": 3,
     "picture": "https://c.ndtvimg.com/2022-05/uhjvddb_chef-generic_625x300_10_May_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
     "name": "Vikas Khanna",
+    "bio": "Vikas Khanna is an Indian-American chef, restaurateur, and cookbook writer. He is known for his modern take on Indian cuisine and has been the judge of several cooking shows like 'MasterChef India' and 'MasterChef Australia'. He has also authored several cookbooks and is the recipient of several prestigious awards for his culinary skills.",
     "experience": 8,
     "recipes": 60,
     "likes": 12000
@@ -26,7 +29,8 @@
   {
     "id": 4,
     "picture": "https://tajdining.com/uploads/chefs/small/53_small_2022_07_26_03_37_47.jpg",
-    "name": "Sanjeev Kapoor",
+    "name": "Raj Kapoor",
+    "bio": "Raj Kapoor is an Indian chef and restaurateur based in London. He is the owner of several successful restaurants, including 'The Cinnamon Club' and 'Brilliant', and is known for his innovative take on Indian cuisine. He has also authored a cookbook titled 'The Cinnamon Club Cookbook'.",
     "experience": 15,
     "recipes": 100,
     "likes": 25000
@@ -35,6 +39,7 @@
     "id": 5,
     "picture": "https://news.harvard.edu/wp-content/uploads/2022/12/Chef-Ben-Howe-and-DELISH-Dishes-2-1200x800.jpg",
     "name": "Tarla Dalal",
+    "bio": "Tarla Dalal was an Indian chef, author, and television personality. She was known for her vegetarian recipes and authored over 100 cookbooks. She was also the host of the popular cooking show 'Cook It Up With Tarla Dalal'. She passed away in 2013, but her legacy lives on through her recipes and books.",
     "experience": 3,
     "recipes": 30,
     "likes": 5000
@@ -43,6 +48,7 @@
     "id": 6,
     "picture": "https://images.delightedcooking.com/slideshow-mobile-small/linecook.jpg",
     "name": "Abdul Hamid",
+    "bio": "Abdul Hamid is an Indian chef and restaurateur based in Kolkata. He is known for his expertise in Mughlai and Awadhi cuisine and is the owner of several successful restaurants, including 'Arsalan' and 'Aminia'. He has also been the recipient of several awards for his culinary skills and has been featured in several food and travel shows.",
     "experience": 12,
     "recipes": 80,
     "likes": 20000
